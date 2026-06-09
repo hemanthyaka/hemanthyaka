@@ -16,7 +16,7 @@ Frontend Developer with 2 years of experience delivering production-grade applic
 
 I specialize in transforming complex business requirements into scalable, maintainable, and user-friendly applications. My experience includes building large-scale dashboards, content management systems, clinical workflow platforms, and enterprise reporting solutions.
 
-- 🔹 2+ years of professional experience
+- 🔹 2 years of professional experience
 - 🔹 Enterprise SaaS & Healthcare domain experience
 - 🔹 Focused on scalability, maintainability, and performance
 - 🔹 Passionate about clean architecture and reusable systems
