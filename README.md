@@ -6,7 +6,7 @@ I build scalable, responsive, and high-performance web applications with a stron
 
 ## About Me
 
-- Frontend Engineer with 1.9+ years of industry experience
+- Frontend Engineer with 2 years of industry experience
 - Specialized in React.js, Next.js, TypeScript, and modern frontend architecture
 - Experience building enterprise-grade SaaS and healthcare applications
 - Passionate about performance optimization and clean code practices
@@ -50,7 +50,7 @@ I build scalable, responsive, and high-performance web applications with a stron
 ## Connect With Me
 
 - GitHub: https://github.com/hemanthyaka
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/hemanth-yaka/
 
 ---
 
