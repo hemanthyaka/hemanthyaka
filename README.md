@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemanth Yaka</h1>
 
 <h3 align="center">
-Frontend Engineer building scalable, high-performance web applications
+Frontend Developer building scalable, high-performance web applications
 </h3>
 
 <p align="center">
