@@ -5,7 +5,7 @@ Frontend Developer building scalable, high-performance web applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Clean+Architecture+%7C+Performance+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Clean+Architecture+%7C+Performance+Focused" />
 </p>
 
 ---
