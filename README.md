@@ -26,9 +26,9 @@ I specialize in transforming complex business requirements into scalable, mainta
 
 ## 💼 Professional Experience Highlights
 
-### 🌟 Rozana — Centralized Catalogue Management System
+### 🌟 Centralized Catalogue Management System
 
-- Led frontend development as the sole UI engineer.
+- Frontend development as the sole UI engineer.
 - Delivered complete product management workflows.
 - Established reusable UI standards adopted across internal tools.
 - Improved development efficiency through standardized implementation patterns.
@@ -36,7 +36,7 @@ I specialize in transforming complex business requirements into scalable, mainta
 
 ---
 
-### 🛡️ Affirmed — AI-Powered Vulnerability Management Platform
+### 🛡️ AI-Powered Vulnerability Management Platform
 
 - Built large-scale security dashboards handling thousands of records.
 - Improved visibility into vulnerability management workflows.
