@@ -93,7 +93,6 @@ I specialize in transforming complex business requirements into scalable, mainta
 - Frontend System Design
 - Advanced React Patterns
 - Next.js Architecture
-- Full Stack Development
 - Performance Engineering
 - AI-Powered Applications
 
